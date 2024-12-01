@@ -1,0 +1,170 @@
+[2024-12-01 13:24:03Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.runner'
+[2024-12-01 13:24:03Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-12-01 13:24:03Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2024-12-01 13:24:03Z INFO Listener] Version: 2.321.0
+[2024-12-01 13:24:03Z INFO Listener] Commit: e249007931b7c8e857797fa259c167f0bd4f997a
+[2024-12-01 13:24:03Z INFO Listener] Culture: fr-FR
+[2024-12-01 13:24:03Z INFO Listener] UI Culture: fr-FR
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO Listener] Validating directory permissions for: 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO CommandLineParser] Parse
+[2024-12-01 13:24:03Z INFO CommandLineParser] Parsing 1 args
+[2024-12-01 13:24:03Z INFO CommandLineParser] parsing argument
+[2024-12-01 13:24:03Z INFO CommandLineParser] HasArgs: False
+[2024-12-01 13:24:03Z INFO CommandLineParser] Adding Command: run
+[2024-12-01 13:24:03Z INFO Listener] Arguments parsed
+[2024-12-01 13:24:03Z INFO Runner] ExecuteCommand
+[2024-12-01 13:24:03Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin\Runner.Listener.dll
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO ConfigurationStore] binPath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO ConfigurationStore] RootFolder: C:\Users\user\OneDrive\Documents\userManagement\actions-runner
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.runner'
+[2024-12-01 13:24:03Z INFO ConfigurationStore] ConfigFilePath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.runner
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials'
+[2024-12-01 13:24:03Z INFO ConfigurationStore] CredFilePath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_migrated'
+[2024-12-01 13:24:03Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_migrated
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO HostContext] Well known config file 'Service': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.service'
+[2024-12-01 13:24:03Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.service
+[2024-12-01 13:24:03Z INFO CommandSettings] Flag 'help': 'False'
+[2024-12-01 13:24:03Z INFO CommandSettings] Flag 'version': 'False'
+[2024-12-01 13:24:03Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-12-01 13:24:03Z INFO CommandSettings] Flag 'check': 'False'
+[2024-12-01 13:24:03Z INFO CommandSettings] Command 'configure': 'False'
+[2024-12-01 13:24:03Z INFO CommandSettings] Command 'remove': 'False'
+[2024-12-01 13:24:03Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-12-01 13:24:03Z INFO ConfigurationManager] LoadSettings
+[2024-12-01 13:24:03Z INFO ConfigurationStore] IsConfigured()
+[2024-12-01 13:24:03Z INFO ConfigurationStore] IsConfigured: True
+[2024-12-01 13:24:03Z INFO ConfigurationManager] Is configured: True
+[2024-12-01 13:24:03Z INFO ConfigurationStore] Read setting file: 317 chars
+[2024-12-01 13:24:03Z INFO ConfigurationManager] Settings Loaded
+[2024-12-01 13:24:03Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-12-01 13:24:03Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-12-01 13:24:03Z INFO CommandSettings] Command 'run': 'True'
+[2024-12-01 13:24:03Z INFO ConfigurationStore] IsConfigured()
+[2024-12-01 13:24:03Z INFO ConfigurationStore] IsConfigured: True
+[2024-12-01 13:24:03Z INFO ConfigurationManager] Is configured: True
+[2024-12-01 13:24:03Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2024-12-01 13:24:03Z INFO Runner] Set runner startup type - Manual
+[2024-12-01 13:24:03Z INFO CommandSettings] Flag 'once': 'False'
+[2024-12-01 13:24:03Z INFO CommandSettings] Flag 'once': 'False'
+[2024-12-01 13:24:03Z INFO Runner] RunAsync
+[2024-12-01 13:24:03Z INFO ConfigurationManager] LoadSettings
+[2024-12-01 13:24:03Z INFO ConfigurationStore] IsConfigured()
+[2024-12-01 13:24:03Z INFO ConfigurationStore] IsConfigured: True
+[2024-12-01 13:24:03Z INFO ConfigurationManager] Is configured: True
+[2024-12-01 13:24:03Z INFO ConfigurationManager] Settings Loaded
+[2024-12-01 13:24:03Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "DESKTOP-CLJGOLC",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus8.actions.githubusercontent.com/gSlaOP8erHOba85603z77d25CvE0k6ry3q7n5W8yhG2sXVY2Jm/",
+  "GitHubUrl": "https://github.com/hibayagoubi1/user_management",
+  "WorkFolder": "_work"
+}
+[2024-12-01 13:24:03Z INFO MessageListener] Loading Credentials
+[2024-12-01 13:24:03Z INFO ConfigurationStore] HasCredentials()
+[2024-12-01 13:24:03Z INFO ConfigurationStore] stored True
+[2024-12-01 13:24:03Z INFO CredentialManager] GetCredentialProvider
+[2024-12-01 13:24:03Z INFO CredentialManager] Creating type OAuth
+[2024-12-01 13:24:03Z INFO CredentialManager] Creating credential type: OAuth
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:03Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:24:03Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_rsaparams'
+[2024-12-01 13:24:03Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_rsaparams
+[2024-12-01 13:24:03Z INFO MessageListener] Attempt to create session.
+[2024-12-01 13:24:03Z INFO MessageListener] Connecting to the Runner Server...
+[2024-12-01 13:24:03Z INFO RunnerServer] EstablishVssConnection
+[2024-12-01 13:24:03Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-12-01 13:24:03Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-01 13:24:03Z INFO RunnerServer] EstablishVssConnection
+[2024-12-01 13:24:03Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-12-01 13:24:03Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-01 13:24:03Z INFO RunnerServer] EstablishVssConnection
+[2024-12-01 13:24:03Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-12-01 13:24:03Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-01 13:24:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-01 13:24:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-01 13:24:04Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-01 13:24:04Z INFO MessageListener] VssConnection created
+[2024-12-01 13:24:04Z INFO Terminal] WRITE LINE: 
+[2024-12-01 13:24:04Z INFO Terminal] WRITE LINE: 
+[2024-12-01 13:24:04Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_rsaparams
+[2024-12-01 13:24:05Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_rsaparams
+[2024-12-01 13:24:05Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-12-01 13:24:05Z INFO MessageListener] Session created.
+[2024-12-01 13:24:05Z INFO Terminal] WRITE LINE: Current runner version: '2.321.0'
+[2024-12-01 13:24:05Z INFO Terminal] WRITE LINE: 2024-12-01 13:24:05Z: Listening for Jobs
+[2024-12-01 13:24:05Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2024-12-01 13:24:06Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_rsaparams
+[2024-12-01 13:24:06Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-12-01 13:24:08Z INFO MessageListener] Message '7395355590123925310' received from session '12f209ad-d673-4c08-bdaa-663343010dbe'.
+[2024-12-01 13:24:08Z INFO ConfigurationStore] HasCredentials()
+[2024-12-01 13:24:08Z INFO ConfigurationStore] stored True
+[2024-12-01 13:24:08Z INFO CredentialManager] GetCredentialProvider
+[2024-12-01 13:24:08Z INFO CredentialManager] Creating type OAuth
+[2024-12-01 13:24:08Z INFO CredentialManager] Creating credential type: OAuth
+[2024-12-01 13:24:08Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_rsaparams
+[2024-12-01 13:24:08Z INFO ActionsRunServer] EstablishVssConnection
+[2024-12-01 13:24:08Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2024-12-01 13:24:08Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-12-01 13:24:08Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-12-01 13:24:08Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_rsaparams
+[2024-12-01 13:24:08Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_rsaparams
+[2024-12-01 13:24:09Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-12-01 13:24:09Z INFO JobDispatcher] Job request 1 for plan ed21f6b0-090e-462f-857b-500d5ac454f7 job ca395085-040a-526b-2ce8-bdc85f692774 received.
+[2024-12-01 13:24:09Z INFO JobDispatcher] Pull OrchestrationId ed21f6b0-090e-462f-857b-500d5ac454f7.build.__default from JWT claims
+[2024-12-01 13:24:09Z INFO MessageListener] Received job status event. JobState: Busy
+[2024-12-01 13:24:09Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2024-12-01 13:24:09Z INFO Terminal] WRITE LINE: 2024-12-01 13:24:09Z: Running job: Build, Analyze, and Deploy
+[2024-12-01 13:24:09Z INFO JobDispatcher] Start renew job request 1 for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2024-12-01 13:24:10Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 01/12/2024 13:34:15
+[2024-12-01 13:24:10Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper] Starting process:
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin\Runner.Worker.exe'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2284 2296'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2024-12-01 13:24:10Z INFO ProcessInvokerWrapper] Process started with process id 11528, waiting for process exit.
+[2024-12-01 13:24:10Z INFO JobDispatcher] Send job request message to worker for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2024-12-01 13:24:10Z INFO ProcessChannel] Sending message of length 28845, with hash '2d18f0b434246508fd317695f44fc8df4a0c940b407a75f732e8490872e17786'
+[2024-12-01 13:24:10Z INFO JobNotification] Entering JobStarted Notification
+[2024-12-01 13:24:10Z INFO JobNotification] Entering StartMonitor
+[2024-12-01 13:25:10Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 01/12/2024 13:35:15
+[2024-12-01 13:26:10Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 01/12/2024 13:36:15
+[2024-12-01 13:26:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-12-01 13:26:47Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-12-01 13:26:47Z INFO ProcessInvokerWrapper] Finished process 11528 with exit code 102, and elapsed time 00:02:37.7053923.
+[2024-12-01 13:26:47Z INFO JobDispatcher] Worker finished for job ca395085-040a-526b-2ce8-bdc85f692774. Code: 102
+[2024-12-01 13:26:47Z INFO JobDispatcher] finish job request for job ca395085-040a-526b-2ce8-bdc85f692774 with result: Failed
+[2024-12-01 13:26:47Z INFO Terminal] WRITE LINE: 2024-12-01 13:26:47Z: Job Build, Analyze, and Deploy completed with result: Failed
+[2024-12-01 13:26:47Z INFO JobDispatcher] Stop renew job request for job ca395085-040a-526b-2ce8-bdc85f692774.
+[2024-12-01 13:26:47Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1.
+[2024-12-01 13:26:47Z INFO JobNotification] Entering JobCompleted Notification
+[2024-12-01 13:26:47Z INFO JobNotification] Entering EndMonitor
+[2024-12-01 13:26:47Z INFO MessageListener] Received job status event. JobState: Online

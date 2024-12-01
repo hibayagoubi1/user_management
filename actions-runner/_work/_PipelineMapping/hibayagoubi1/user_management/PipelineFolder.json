@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "hibayagoubi1/user_management",
+  "pipelineDirectory": "user_management",
+  "workspaceDirectory": "user_management\\user_management",
+  "repositories": {
+    "hibayagoubi1/user_management": {
+      "repositoryPath": "user_management\\user_management",
+      "lastRunOn": "12/01/2024 14:24:12 +01:00"
+    }
+  },
+  "lastRunOn": "12/01/2024 14:24:12 +01:00"
+}

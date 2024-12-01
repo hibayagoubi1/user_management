@@ -1,0 +1,61 @@
+[2024-12-01 13:13:48Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-12-01 13:13:48Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:48Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:48Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials'
+[2024-12-01 13:13:48Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:48Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:48Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.runner'
+[2024-12-01 13:13:48Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-12-01 13:13:48Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22621.
+[2024-12-01 13:13:48Z INFO Listener] Version: 2.321.0
+[2024-12-01 13:13:48Z INFO Listener] Commit: e249007931b7c8e857797fa259c167f0bd4f997a
+[2024-12-01 13:13:48Z INFO Listener] Culture: fr-FR
+[2024-12-01 13:13:48Z INFO Listener] UI Culture: fr-FR
+[2024-12-01 13:13:48Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:48Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:48Z INFO Listener] Validating directory permissions for: 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:48Z INFO CommandLineParser] Parse
+[2024-12-01 13:13:49Z INFO CommandLineParser] Parsing 1 args
+[2024-12-01 13:13:49Z INFO CommandLineParser] parsing argument
+[2024-12-01 13:13:49Z INFO CommandLineParser] HasArgs: False
+[2024-12-01 13:13:49Z INFO CommandLineParser] Adding Command: run
+[2024-12-01 13:13:49Z INFO Listener] Arguments parsed
+[2024-12-01 13:13:49Z INFO Runner] ExecuteCommand
+[2024-12-01 13:13:49Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin\Runner.Listener.dll
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:49Z INFO ConfigurationStore] binPath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:49Z INFO ConfigurationStore] RootFolder: C:\Users\user\OneDrive\Documents\userManagement\actions-runner
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:49Z INFO HostContext] Well known config file 'Runner': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.runner'
+[2024-12-01 13:13:49Z INFO ConfigurationStore] ConfigFilePath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.runner
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:49Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials'
+[2024-12-01 13:13:49Z INFO ConfigurationStore] CredFilePath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:49Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_migrated'
+[2024-12-01 13:13:49Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.credentials_migrated
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Bin': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\bin'
+[2024-12-01 13:13:49Z INFO HostContext] Well known directory 'Root': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner'
+[2024-12-01 13:13:49Z INFO HostContext] Well known config file 'Service': 'C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.service'
+[2024-12-01 13:13:49Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\user\OneDrive\Documents\userManagement\actions-runner\.service
+[2024-12-01 13:13:49Z INFO CommandSettings] Flag 'help': 'False'
+[2024-12-01 13:13:49Z INFO CommandSettings] Flag 'version': 'False'
+[2024-12-01 13:13:49Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-12-01 13:13:49Z INFO CommandSettings] Flag 'check': 'False'
+[2024-12-01 13:13:49Z INFO CommandSettings] Command 'configure': 'False'
+[2024-12-01 13:13:49Z INFO CommandSettings] Command 'remove': 'False'
+[2024-12-01 13:13:49Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-12-01 13:13:49Z INFO ConfigurationManager] LoadSettings
+[2024-12-01 13:13:49Z INFO ConfigurationStore] IsConfigured()
+[2024-12-01 13:13:49Z INFO ConfigurationStore] IsConfigured: False
+[2024-12-01 13:13:49Z INFO ConfigurationManager] Is configured: False
+[2024-12-01 13:13:49Z ERR  Terminal] WRITE ERROR: An error occurred: Not configured. Run config.(sh/cmd) to configure the runner.
+[2024-12-01 13:13:49Z ERR  Listener] GitHub.Runner.Common.NonRetryableException: Not configured. Run config.(sh/cmd) to configure the runner.
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.LoadSettings()
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+   at GitHub.Runner.Listener.Program.MainAsync(IHostContext context, String[] args)
